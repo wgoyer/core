@@ -50,7 +50,7 @@ class _DeviceIndex(NamedTuple):
     connections: dict[tuple[str, str], str]
 
 
-class DeviceEntryType(Enum):
+class DeviceEntryType(str, Enum):
     """Device entry type."""
 
     SERVICE = "service"
