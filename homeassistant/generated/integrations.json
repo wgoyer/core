@@ -5156,6 +5156,10 @@
       "config_flow": false,
       "iot_class": null
     },
+    "input_select_rad": {
+      "config_flow": false,
+      "iot_class": null
+    },
     "input_text": {
       "config_flow": false,
       "iot_class": null

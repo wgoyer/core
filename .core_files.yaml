@@ -75,6 +75,7 @@ components: &components
   - homeassistant/components/input_datetime/**
   - homeassistant/components/input_number/**
   - homeassistant/components/input_select/**
+  - homeassistant/components/input_select_rad/**
   - homeassistant/components/input_text/**
   - homeassistant/components/logbook/**
   - homeassistant/components/logger/**

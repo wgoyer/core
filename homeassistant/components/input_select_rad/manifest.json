@@ -1,0 +1,8 @@
+{
+  "domain": "input_select_rad",
+  "integration_type": "helper",
+  "name": "Input Select but Rad",
+  "documentation": "https://www.home-assistant.io/integrations/input_select",
+  "codeowners": ["@home-assistant/core"],
+  "quality_scale": "internal"
+}

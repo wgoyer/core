@@ -19,6 +19,7 @@
     "input_datetime",
     "input_number",
     "input_select",
+    "input_select_rad",
     "input_text",
     "logbook",
     "map",
